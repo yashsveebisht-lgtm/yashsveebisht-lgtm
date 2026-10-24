@@ -1,60 +1,79 @@
 
 <div align="center">
 
-# ✿ Hello, World! I'm a Developer in Progress ✿
+# 🌷 Hi, I'm Yashsvee! 👋
 
-### B.Tech Student | AI & Machine Learning Enthusiast
+### 💻 B.Tech AI/ML Student | Future Innovator
 
-*Learning something new, building something useful, every day.* 💗
+*Learning with curiosity. Building with creativity. Growing with every commit.* ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+Projects+with+Purpose;Growing+Through+Open+Source)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=21&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Exploring+AI+%26+Machine+Learning;Building+Projects+That+Matter;Learning+%26+Growing+Every+Day;Open+Source+Enthusiast)
 
 </div>
 
 ---
 
-## 🌷 About Me
+## 💫 About Me
 
-- 🎓 I'm a B.Tech student exploring AI and Machine Learning.
-- 🌱 Currently improving my Python, C/C++, and problem-solving skills.
-- 🤖 Interested in building practical machine learning projects.
-- 🤝 Open to beginner-friendly open-source contributions and collaboration.
-- ✨ I believe consistency matters more than perfection.
+- 🎓 B.Tech student exploring Artificial Intelligence and Machine Learning.
+- 🐍 Learning Python, C, C++ and practical problem-solving.
+- 🤖 Interested in machine learning and real-world applications of AI.
+- 🌱 Exploring Git, GitHub and open-source collaboration.
+- 🤝 Open to teamwork, new ideas and learning opportunities.
+- ✨ Motto: *Small steps lead to meaningful progress.*
 
----
+## 🌐 Let's Connect
 
-## 💻 My Tech Stack
+[![Instagram](https://img.shields.io/badge/Instagram-FCE7F3?style=for-the-badge&logo=instagram&logoColor=BE185D)](https://instagram.com/_yashsvee_bisht_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EDE9FE?style=for-the-badge&logo=linkedin&logoColor=6D28D9)](https://linkedin.com/in/yashsveebisht-lgtm)
+[![Pinterest](https://img.shields.io/badge/Pinterest-FCE7F3?style=for-the-badge&logo=pinterest&logoColor=BE185D)](https://pinterest.com/yashsveebisht)
+[![Email](https://img.shields.io/badge/Email-DBEAFE?style=for-the-badge&logo=gmail&logoColor=1D4ED8)](mailto:yashsveebisht@gmail.com)
 
-**Languages**
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-FFE0F0?style=for-the-badge&logo=python&logoColor=7C3AED)
-![C](https://img.shields.io/badge/C-EDE9FE?style=for-the-badge&logo=c&logoColor=4338CA)
-![C++](https://img.shields.io/badge/C%2B%2B-FCE7F3?style=for-the-badge&logo=cplusplus&logoColor=9D174D)
-
-**Tools & Technologies**
-
-![Git](https://img.shields.io/badge/Git-FCE7F3?style=for-the-badge&logo=git&logoColor=BE185D)
+![C](https://img.shields.io/badge/C-EDE9FE?style=for-the-badge&logo=c&logoColor=6D28D9)
+![C++](https://img.shields.io/badge/C%2B%2B-DBEAFE?style=for-the-badge&logo=cplusplus&logoColor=1D4ED8)
+![Python](https://img.shields.io/badge/Python-FFF1D6?style=for-the-badge&logo=python&logoColor=9A3412)
 ![GitHub](https://img.shields.io/badge/GitHub-EDE9FE?style=for-the-badge&logo=github&logoColor=6D28D9)
-![VS Code](https://img.shields.io/badge/VS%20Code-DBEAFE?style=for-the-badge&logo=visualstudiocode&logoColor=1D4ED8)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-FFF1D6?style=for-the-badge&logo=scikitlearn&logoColor=9A3412)
 
----
+## 📊 GitHub Statistics
 
-## 🌸 Beyond the Code
+<div align="center">
 
-- 💡 Turning ideas into experiments.
-- 📚 Learning through projects and collaboration.
-- 🌍 Exploring the open-source community.
-- 🎨 Bringing creativity into technology.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashsveebisht-lgtm&show_icons=true&theme=omni&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=yashsveebisht-lgtm&theme=omni&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsveebisht-lgtm&layout=compact&theme=omni&hide_border=true)
+
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yashsveebisht-lgtm&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=8)
+
+</div>
+
+## ✨ A Little Reminder
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+
+*Keep learning. Keep creating. Keep growing.* 🌸
+
+![Profile Views](https://komarev.com/ghpvc/?username=yashsveebisht-lgtm&style=flat-square&color=C084FC&label=PROFILE+VISITORS)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ♡ Thanks for stopping by! ♡
+### 💗 Thanks for visiting my corner of GitHub!
 
-*Keep learning. Keep creating. Keep growing.*
-
-**Let's connect and build something meaningful.** ✨
+*Every expert was once a beginner.*
 
 </div>
