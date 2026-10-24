@@ -1,27 +1,60 @@
-# 💫 About Me:
-Hi, I'm a B.Tech AI/ML Student 👋<br><br>💻 Exploring Artificial Intelligence & Machine Learning<br>🚀 Building projects and learning by doing<br>🌱 Growing through open source and collaboration<br>🤝 Always open to learning, teamwork, and new ideas
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yashsvee_bisht_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashsveebisht-lgtm) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yashsveebisht) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashsveebisht@gmail.com) 
+# ✿ Hello, World! I'm a Developer in Progress ✿
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yashsveebisht-lgtm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=yashsveebisht-lgtm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yashsveebisht-lgtm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### B.Tech Student | AI & Machine Learning Enthusiast
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yashsveebisht-lgtm&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+*Learning something new, building something useful, every day.* 💗
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+Projects+with+Purpose;Growing+Through+Open+Source)](https://git.io/typing-svg)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yashsveebisht-lgtm&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=yashsveebisht-lgtm&icon=2&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌷 About Me
+
+- 🎓 I'm a B.Tech student exploring AI and Machine Learning.
+- 🌱 Currently improving my Python, C/C++, and problem-solving skills.
+- 🤖 Interested in building practical machine learning projects.
+- 🤝 Open to beginner-friendly open-source contributions and collaboration.
+- ✨ I believe consistency matters more than perfection.
+
+---
+
+## 💻 My Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-FFE0F0?style=for-the-badge&logo=python&logoColor=7C3AED)
+![C](https://img.shields.io/badge/C-EDE9FE?style=for-the-badge&logo=c&logoColor=4338CA)
+![C++](https://img.shields.io/badge/C%2B%2B-FCE7F3?style=for-the-badge&logo=cplusplus&logoColor=9D174D)
+
+**Tools & Technologies**
+
+![Git](https://img.shields.io/badge/Git-FCE7F3?style=for-the-badge&logo=git&logoColor=BE185D)
+![GitHub](https://img.shields.io/badge/GitHub-EDE9FE?style=for-the-badge&logo=github&logoColor=6D28D9)
+![VS Code](https://img.shields.io/badge/VS%20Code-DBEAFE?style=for-the-badge&logo=visualstudiocode&logoColor=1D4ED8)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-FFF1D6?style=for-the-badge&logo=scikitlearn&logoColor=9A3412)
+
+---
+
+## 🌸 Beyond the Code
+
+- 💡 Turning ideas into experiments.
+- 📚 Learning through projects and collaboration.
+- 🌍 Exploring the open-source community.
+- 🎨 Bringing creativity into technology.
+
+---
+
+<div align="center">
+
+### ♡ Thanks for stopping by! ♡
+
+*Keep learning. Keep creating. Keep growing.*
+
+**Let's connect and build something meaningful.** ✨
+
+</div>
